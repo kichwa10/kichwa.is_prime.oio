@@ -7,3 +7,5 @@ def is_prime(n):
         return True
     else:
         return False
+    
+    print(is_prime(9))
